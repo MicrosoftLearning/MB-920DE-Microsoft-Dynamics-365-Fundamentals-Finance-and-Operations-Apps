@@ -106,7 +106,7 @@ Als nächstes überprüfen wir die Schaltfläche „Summen“, um zu sehen, wie 
 Sie können eine Aufstellung für einen beliebigen Datumsbereich erstellen.
 
 1. Wählen Sie das Feld **Startdatum** aus, und geben Sie **01.02.2021** ein.
-1. 
+ 
 1. Wählen Sie das Feld **Enddatum** aus, und geben Sie das heutige Datum ein.
 
 1. Wenn Sie fertig sind, wählen Sie **Berechnen** aus.

@@ -40,7 +40,7 @@ Sie müssen eine Auswahl zugehöriger Produkte erstellen, die einem bestimmten C
 
 1. Wählen Sie unter „Organisationsknoten auswählen“ das Menü **Organisationshierarchie** und dann **Einzelhandelsgeschäfte nach Typ (Fabrikam)** aus.
 
-1. Wählen Sie unter VERFÜGBARE ORGANISATIONSKNOTEN die Option?„Online“ und dann das Nach-rechts-Pfeilsymbol ![Hinzufügen](./media/d365-fo-add-org-node-icon.png) aus, um es zu **AUSGEWÄHLTE ORGANISATIONSKNOTEN** hinzuzufügen.  
+1. Wählen Sie unter VERFÜGBARE ORGANISATIONSKNOTEN die Option? „Online“ und dann das Nach-rechts-Pfeilsymbol ![Hinzufügen](./media/d365-fo-add-org-node-icon.png) aus, um es zu **AUSGEWÄHLTE ORGANISATIONSKNOTEN** hinzuzufügen.  
   Dadurch werden der übergeordnete Knoten und alle untergeordneten Knoten hinzugefügt.
 
 1. Ergänzen Sie den übergeordneten Knoten **Einkaufszentrum**, und wählen Sie dann **OK** aus.

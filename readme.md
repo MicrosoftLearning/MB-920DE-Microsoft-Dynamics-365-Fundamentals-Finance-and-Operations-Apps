@@ -1,7 +1,7 @@
 # INF99X: Beispielkurs
 
 - **[Laden Sie das aktuelle Kursteilnehmerhandbuch und alle Dateiinhalte herunter.](../../releases/latest)**
-- **Sind Sie ein MCT?** - Lesen Sie unseren [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Sind Sie ein MCT?** - Lesen Sie unseren [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide-DE/)
 - **Sie benötigen keine manuell erstellten Lab-Anweisungen?** - Anweisungen stehen im Repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) zur Verfügung.
 
 ## Was tun wir?

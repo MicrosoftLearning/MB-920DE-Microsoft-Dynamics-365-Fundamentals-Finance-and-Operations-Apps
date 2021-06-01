@@ -32,7 +32,7 @@ Die Bostoner Filiale Ihres Unternehmens ist bereit, den Verkauf einiger Produkte
 
 1. Wählen Sie das Menü **Modus für Rabattparallelität** aus, überprüfen Sie die verfügbaren Optionen, und klicken Sie dann auf **Bester Preis**.
 
-    >[!NOTE] Beachten Sie bei der Auswahl zwischen den Optionen für den Modus für Rabattparallelität Folgendes:
+    >[!Hinweis] Beachten Sie bei der Auswahl zwischen den Optionen für den Modus für Rabattparallelität Folgendes:
     >
     >  - Wenn mehrere zusammengesetzte Rabatte gelten, wird immer zuerst der höchste Rabatt berechnet.  Der nächsthöhere Rabatt wird dann auf den Restbetrag berechnet.  Diese Berechnungshierarchie wird fortgesetzt, bis alle anwendbaren zusammengesetzten Rabatte angewendet wurden.  
     >    **Richtig**: 40 % Rabatt + 20 % Rabatt = 52 % Rabatt  

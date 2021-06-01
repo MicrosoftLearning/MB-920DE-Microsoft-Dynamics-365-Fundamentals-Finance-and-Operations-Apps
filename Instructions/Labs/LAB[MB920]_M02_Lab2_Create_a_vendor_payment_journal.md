@@ -47,7 +47,7 @@ Erstellen Sie einen neuen Eintrag in der Kreditorenzahlungserfassung und einen Z
 
 1. Löschen Sie in den Feldern **Von Datum** und **Bis Datum** alle vorhandenen Werte. In dieser Übung bleiben diese Datumsbereiche leer.
 
-    >[!NOTE] Möglicherweise wird ein Mindestzahlungsdatum als Zahlungsdatum verwendet. Das Mindestzahlungsdatum ist das früheste Datum, an dem Zahlungen erstellt werden. Angenommen, eine Rechnung weist ein Fälligkeitsdatum nach dem Mindestzahlungsdatum auf. In diesem Fall ist das spätestmögliche Zahlungsdatum zum Begleichen der Rechnung das Fälligkeitsdatum anstelle des Mindestzahlungsdatums.
+    >[!Hinweis] Möglicherweise wird ein Mindestzahlungsdatum als Zahlungsdatum verwendet. Das Mindestzahlungsdatum ist das früheste Datum, an dem Zahlungen erstellt werden. Angenommen, eine Rechnung weist ein Fälligkeitsdatum nach dem Mindestzahlungsdatum auf. In diesem Fall ist das spätestmögliche Zahlungsdatum zum Begleichen der Rechnung das Fälligkeitsdatum anstelle des Mindestzahlungsdatums.
 
 1. Erweitern Sie **Einzuschließende Datensätze**, und überprüfen Sie die Optionen.  
     Der Filter wird häufig verwendet, um die zur Zahlung ausgewählten Rechnungen nach Kreditorengruppen oder Zahlungsmethoden einzuschränken. Sie können beispielsweise einen Filter hinzufügen, um in diesem Zahlungslauf Rechnungen nur per Scheck zu bezahlen.

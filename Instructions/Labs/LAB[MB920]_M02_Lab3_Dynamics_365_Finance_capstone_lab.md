@@ -216,7 +216,7 @@ In diesem Lab erkunden Sie die zentralen Funktionen von Dynamics 365 Finance. Si
     | Artikelnummer| S0001|
     | Menge| 2|
 
-    >[!NOTE] Sie müssen nach rechts scrollen, um die Spalte **Menge** anzuzeigen.
+    >[!Hinweis] Sie müssen nach rechts scrollen, um die Spalte **Menge** anzuzeigen.
 
 1. Wählen Sie im Aktionsbereich **Speichern** aus.
 
@@ -228,7 +228,7 @@ In diesem Lab erkunden Sie die zentralen Funktionen von Dynamics 365 Finance. Si
 
 1. Wählen Sie auf der Registerkarte **GENERIEREN** die Option **Rechnung** aus.
 
-1. Wählen Sie im Aktionsbereich **Standard von:** aus.** Menge im Produktzugang** aus.
+1. Wählen Sie im Aktionsbereich **Standard von:** aus. **Menge im Produktzugang** aus.
 
 1. Wählen Sie im Menü **Standardmenge für Positionen** die Option **Bestellte Menge** und dann **OK** aus.
 

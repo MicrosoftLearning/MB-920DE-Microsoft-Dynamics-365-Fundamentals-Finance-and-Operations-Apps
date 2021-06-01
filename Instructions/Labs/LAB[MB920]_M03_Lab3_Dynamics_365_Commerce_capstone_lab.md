@@ -155,7 +155,7 @@ In diesem Lab erkunden Sie die Grundlagen der Einrichtung eines Commerce-Headqua
 
 1. Wählen Sie im Aktionsbereich **Jetzt ausführen** aus.
 
-1. Überprüfen Sie die Informationen im Bereich für die inkrementelle Synchronisierung mit dem Plan **1040**, und wählen Sie dann  **OK** aus.
+1. Überprüfen Sie die Informationen im Bereich für die **inkrementelle Synchronisierung mit dem Plan ,1040‘**, und wählen Sie dann  **OK** aus.
 
 ### Neuen Produktrabatt erstellen
 
@@ -201,4 +201,4 @@ In diesem Lab erkunden Sie die Grundlagen der Einrichtung eines Commerce-Headqua
 
 1. Wählen Sie im Aktionsbereich **Jetzt ausführen** aus.
 
-1. Überprüfen Sie die Informationen im Bereich für die inkrementelle Synchronisierung mit dem Plan **1020**, und wählen Sie dann  **OK** aus.
+1. Überprüfen Sie die Informationen im Bereich für die **inkrementelle Synchronisierung mit dem Plan ,1020‘**, und wählen Sie dann  **OK** aus.
