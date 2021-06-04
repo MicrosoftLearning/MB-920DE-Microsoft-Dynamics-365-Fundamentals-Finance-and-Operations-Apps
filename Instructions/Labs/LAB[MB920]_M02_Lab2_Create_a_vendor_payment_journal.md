@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 2: Kreditorenzahlungserfassung erstellen'
+    title: 'Lab 2: Kreditorzahlungserfassung erstellen'
     module: 'Modul 2: Grundlagen von Microsoft Dynamics 365 Finance erlernen'
 ---
 
