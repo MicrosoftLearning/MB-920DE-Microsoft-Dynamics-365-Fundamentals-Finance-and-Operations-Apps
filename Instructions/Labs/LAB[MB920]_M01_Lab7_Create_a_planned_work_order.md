@@ -34,7 +34,7 @@ Geschätzte Dauer: 15 Minuten
 
 	- Wartungsanfragentyp: Corrective
 
-	– Beschreibung: Noise in the metal detector
+	- Beschreibung: Noise in the metal detector
 
 	- Funktionaler Standort PP-02-02
 
