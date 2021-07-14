@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 7: Arbeitsauftrag aus einer Wartungsanfrage erstellen'
     module: 'Modul 1: Grundlagen von Microsoft Dynamics 365 Supply Chain Management erlernen'
