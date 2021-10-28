@@ -109,11 +109,11 @@ Ihre Anmeldeinformationen finden Sie im Menü **Ressourcen** in der oberen recht
 
 1. Markieren Sie einen der Kreditoren in der Liste, und wählen Sie rechts das Menü **Zugehörige Informationen** aus. Prüfen Sie die bereitgestellten zusätzlichen Informationen.
 
-1. Wählen Sie in der Kreditorenliste **Northwind Traders** aus.
+1. Wählen Sie in der Kreditorenliste **Acme Office Supplies** aus.
 
 1. Wählen Sie das Menü **Gruppe** und dann den Spaltentitel **Kreditorengruppe** aus.
 
-    ![Screenshot des Spaltentitels „Kreditorengruppe“ für Northwind Traders](./media/m1-common-all-vendor-group-menu.png)
+    ![Screenshot des Spaltentitels „Kreditorengruppe“ für Acme Office Supplies](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. In vielen Menüs stehen Sortier- und Filterfunktionen zur Verfügung. Verwenden Sie die Filter, um den gesuchten Feldinhalt schnell zu finden.
 
